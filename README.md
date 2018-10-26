@@ -1,0 +1,2 @@
+# DNEVNIKLIZ
+diary
